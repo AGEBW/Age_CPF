@@ -1,0 +1,17 @@
+[{
+	"nombre": "AGE",
+	"email": "adgonzalezen@ittepic.edu.mx",
+	"genero": "masculino",
+	"calificaciones": [{
+			"materia": "matematicas",
+			"calificacion": 100
+		},
+		{
+			"materia": "español",
+			"calificacion": 90
+		}
+	],
+	"promedio": 95,
+	"fecha_nac": "20/05/2018",
+	"activo": true
+}]
